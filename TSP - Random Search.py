@@ -6,7 +6,7 @@ Created on Fri Sep 20 19:38:53 2019
 @author: yuqiugan
 """
 
-
+# I made some changes here.
 import matplotlib.pyplot as plt
 import math
 import numpy as np
